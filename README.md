@@ -5,3 +5,5 @@ This code custom merge ffmpeg
 - increase speed
 - flip
 - add black background
+
+create a source folder in main directory
